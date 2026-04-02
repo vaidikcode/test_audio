@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/api/mirelo.ts","./src/components/sampleplayer.tsx","./src/lib/audioupload.ts","./src/lib/supabase.ts","./src/pages/comparepage.tsx","./src/pages/mirelopage.tsx","./src/types/mirelo.ts"],"version":"5.6.3"}
